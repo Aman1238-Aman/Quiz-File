@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Java with dsa"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true,
+		"liveServer.settings.multiRootWorkspaceName": "new java"
+	}
+}
